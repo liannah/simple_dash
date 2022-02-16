@@ -1,0 +1,7 @@
+pandas
+gunicorn
+altair
+dash==2.1.0
+dash_bootstrap_components
+plotly>=5.0.0
+vega_datasets
